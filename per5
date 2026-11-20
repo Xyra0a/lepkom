@@ -1,0 +1,5 @@
+deny = melarang
+revoke = mencabut hak akses
+grant = memberikan hak akses
+drop
+with grant option
